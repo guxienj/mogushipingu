@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://guxienj.github.io/mogushipingu/sitemap.xml
